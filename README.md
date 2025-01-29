@@ -23,7 +23,7 @@ Based on the findings, three key strategies are proposed:
 📂 Cyclistic-Bike-Share-Analysis
 │── 📂 data/ # Raw and processed data files
 │── 📂 reports/ # Analysis reports and findings
-│── 📂 presentations/ # Presentation files (PowerPoint)
+│── 📂 Presentation/ # Presentation files (PowerPoint)
 │── README.md # Project documentation 
 
 ## How to Use This Repository  
