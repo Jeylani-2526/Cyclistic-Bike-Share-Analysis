@@ -21,20 +21,15 @@ Based on the findings, three key strategies are proposed:
 
 ## Repository Structure  
 📂 Cyclistic-Bike-Share-Analysis
-│── 📂 data/ # Raw and processed data files (if applicable)
+│── 📂 data/ # Raw and processed data files
 │── 📂 reports/ # Analysis reports and findings
-│── 📂 presentations/ # Presentation files (e.g., PowerPoint, PDFs)
-│── README.md # Project documentation (this file)
-│── LICENSE # Licensing information (optional)
-
-bash
-Copy
-Edit
+│── 📂 presentations/ # Presentation files (PowerPoint)
+│── README.md # Project documentation 
 
 ## How to Use This Repository  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/Cyclistic-Bike-Share-Analysis.git
+   git clone https://github.com/Jeylani-2526/Cyclistic-Bike-Share-Analysis.git
 Explore the presentations/ folder for key insights.
 Use the marketing strategies to improve bike-share engagement.
 Author
